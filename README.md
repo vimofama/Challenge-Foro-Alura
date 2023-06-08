@@ -47,3 +47,15 @@ Para ejecutar el proyecto, sigue los siguientes pasos:
 ### Eliminar topico
 
 ![image](https://user-images.githubusercontent.com/121779490/236380250-28845ef5-a102-4ffb-860f-b72758248549.png)
+
+# Documentación Foro Alura v2.0.0
+
+En esta versión, hemos implementado importantes mejoras de seguridad al agregar un sistema de inicio de sesión para los usuarios. Además, hemos introducido la generación de tokens para permitir el acceso a los métodos anteriores de la aplicación.
+
+### Registro de usuario
+
+![image](https://github.com/vimofama/Challenge-Foro-Alura/assets/121779490/e4b5b6b3-d6c3-46d5-b1c8-ad3240168693)
+
+### Uso del token de acceso
+
+![image](https://github.com/vimofama/Challenge-Foro-Alura/assets/121779490/c8b6ebfb-3a64-487c-90ef-0d27fd5e198a)
